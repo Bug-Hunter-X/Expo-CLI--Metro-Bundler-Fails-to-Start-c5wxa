@@ -1,0 +1,1 @@
+While using Expo CLI, I encountered an issue where the `expo start` command failed to launch the development server, resulting in an error message indicating that the Metro Bundler failed to start. This error occurred consistently across multiple projects and after several attempts to restart the CLI and clear the cache.
